@@ -2,7 +2,7 @@
 
 ## Math - https://www.youtube.com/@ProfessorLeonard
 * Calculus 1
-* Calculus 2 <most important>
+* Calculus 2 [most important]
 * Calculus 3
 
 ## Computer science
