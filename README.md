@@ -4,7 +4,8 @@
 * Calculus 1
 * Calculus 2 [most important]
 * Calculus 3
-
+* Linear algebra
+  
 ## Computer science
 * Python for beginner
 * Python for intermediate level
