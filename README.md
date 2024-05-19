@@ -13,4 +13,4 @@
 https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python?index=product&queryID=9932450349fd4c09d7460bb3bc31c71f&position=3&linked_from=autocomplete&c=autocomplete
 * Python advanced
 * Finally, learn these Python libraries: Matplotlib, Numpy, Pandas.
-* Improve slow python codes using: vectorisation, jit, gpu.
+* >>> Improve slow python codes using: vectorisation, jit, gpu.
