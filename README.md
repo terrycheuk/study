@@ -1,7 +1,7 @@
-# study
+# Study plan for technical skill
 
-## Math - https://www.youtube.com/@ProfessorLeonard
-* Calculus 1
+## Math
+* Calculus 1 [https://www.youtube.com/@ProfessorLeonard]
 * Calculus 2 [most important]
 * Calculus 3
 * Linear algebra [https://www.youtube.com/watch?v=JnTa9XtvmfI&t=3278s]
@@ -18,3 +18,9 @@ https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology
 ## Symbolic math
 * sympy (a python libray) can help to perform tedious math. 
 [https://www.youtube.com/watch?v=1yBPEPhq54M]
+
+## To become a hedge fund quant / quant trader
+* above list is sufficient
+
+## To become a library quant
+* Also learn modern c++ (c++17, c++20, etc)
