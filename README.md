@@ -1,10 +1,10 @@
 # Study plan for technical skill
 do try other youtube tutorials...
 
-## Math
-* Calculus 1 [https://www.youtube.com/@ProfessorLeonard]
-* Calculus 2 [most important]
-* Calculus 3
+## Math [https://www.youtube.com/@ProfessorLeonard]
+* Calculus 1 [https://www.youtube.com/watch?v=aWC38PvziMA&list=PLF0621D7720431053]
+* Calculus 2 [https://www.youtube.com/watch?v=H9eCT6f_Ftw&list=PLDesaqWTN6EQ2J4vgsN1HyBeRADEh4Cw-] [most important]
+* Calculus 3 [https://www.youtube.com/watch?v=tGVnBAHLApA&list=PLDesaqWTN6ESk16YRmzuJ8f6-rnuy0Ry7]
 * Linear algebra [https://www.youtube.com/watch?v=JnTa9XtvmfI&t=3278s]
   
 ## Computer science
