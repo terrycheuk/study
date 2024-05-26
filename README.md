@@ -7,7 +7,7 @@
 * Linear algebra [https://www.youtube.com/watch?v=JnTa9XtvmfI&t=3278s]
   
 ## Computer science
-* Python for beginner [https://www.youtube.com/watch?v=kqtD5dpn9C8] and look and try other youtube tutorials...
+* Python for beginner [https://www.youtube.com/watch?v=kqtD5dpn9C8] and try other youtube tutorials...
 * Python for intermediate level
 * [edx course : MITx: Introduction to Computer Science and Programming Using Python]
 https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python?index=product&queryID=9932450349fd4c09d7460bb3bc31c71f&position=3&linked_from=autocomplete&c=autocomplete
