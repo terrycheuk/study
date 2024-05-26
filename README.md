@@ -1,4 +1,5 @@
 # Study plan for technical skill
+do try other youtube tutorials...
 
 ## Math
 * Calculus 1 [https://www.youtube.com/@ProfessorLeonard]
@@ -7,11 +8,11 @@
 * Linear algebra [https://www.youtube.com/watch?v=JnTa9XtvmfI&t=3278s]
   
 ## Computer science
-* Python for beginner [https://www.youtube.com/watch?v=b093aqAZiPU&t=13s] and try other youtube tutorials...
-* Python for intermediate level
+* Python for beginner [https://www.youtube.com/watch?v=b093aqAZiPU&t=13s] 
+* Python for intermediate level [https://www.youtube.com/watch?v=HGOBQPFzWKo]
 * [edx course : MITx: Introduction to Computer Science and Programming Using Python]
 https://www.edx.org/learn/computer-science/massachusetts-institute-of-technology-introduction-to-computer-science-and-programming-using-python?index=product&queryID=9932450349fd4c09d7460bb3bc31c71f&position=3&linked_from=autocomplete&c=autocomplete
-* Python advanced
+* Python advanced [https://www.youtube.com/watch?v=KSiRzuSx120&list=PL7yh-TELLS1FuqLSjl5bgiQIEH25VEmIc]
 * Finally, learn these Python libraries: matplotlib, numpy, pandas, scipy.
 * Python is slow. Improve slow python codes using: vectorisation, jit, gpu
 
